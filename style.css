@@ -624,13 +624,4 @@ background: linear-gradient(180deg, rgba(194,65,131,1) 5%, rgba(130,224,235,1) 4
 
 }
 /* End of media queries for desktop  */
-@media only screen and (min-width: 480px)
-{
-    #projects .all-projects .project-img{
-        width:50%;
-        height: 50%;
-	    
-
-    }
-}
 
